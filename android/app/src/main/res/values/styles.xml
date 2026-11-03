@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.KimyayiSaadet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#34281d</item>
+        <item name="colorPrimaryVariant">#1f1710</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="android:statusBarColor">#34281d</item>
+        <item name="android:navigationBarColor">#34281d</item>
+        <item name="android:windowBackground">#f6f0e2</item>
+    </style>
+</resources>

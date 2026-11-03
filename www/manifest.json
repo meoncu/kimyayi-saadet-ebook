@@ -1,0 +1,22 @@
+{
+  "name": "Kimyâ-yı Saâdet - İmam Gazâlî",
+  "short_name": "Kimyayı Saadet",
+  "description": "Hüccetü'l-İslâm İmam Gazâlî'nin ölümsüz eseri Kimyâ-yı Saâdet dikey kaydırmalı e-kitap okuyucu.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f0e2",
+  "theme_color": "#34281d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
